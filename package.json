@@ -1,0 +1,34 @@
+{
+  "name": "cake-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlucasbento/cake-store.git"
+  },
+  "author": "Lucas Bento Tiberio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tlucasbento/cake-store/issues"
+  },
+  "homepage": "https://github.com/tlucasbento/cake-store#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-terser": "^2.1.0",
+    "jquery": "^3.6.3",
+    "jquery.maskedinput": "^1.4.1",
+    "jsdom": "^21.0.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.11",
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^8.0.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.57.1"
+  }
+}
