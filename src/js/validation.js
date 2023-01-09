@@ -31,8 +31,8 @@
     toggleModal(true);
   }
 
-  function toggleModal(boolean) {
-    if(boolean) {
+  function toggleModal(open) {
+    if(open) {
       $('.modal-backdrop').addClass('show');
       $('.modal').show().addClass('show');
     } else {
