@@ -20,8 +20,8 @@
     $('.modal .cake').html(data.cake);
     $('.modal .firstName').html(data.firstName);
     $('.modal .lastName').html(data.lastName);
-    $('.modal .date').html(data.deliveryDate);
-    $('.modal .hour').html(data.deliveryHour);
+    $('.modal .date').html(data.date);
+    $('.modal .hour').html(data.hour);
     $('.modal .phone').html(data.phone);
     $('.modal .email').html(data.email);
     $('.modal .address1').html(data.address1);
